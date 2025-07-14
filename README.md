@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ibrahim Abdel Dayem</h1>
+<h1 align="center">I'm Ibrahim Abdel Dayem 👋</h1>
 
 <h2 align="center">Computer Engineering Student @ Cairo Univeristy | Full Stack Developer (Node.js & Express)</h2>
 <h3 align="center">C++, Java, Python • SQL, PostgreSQL • Django • Git • Postman</h3>
