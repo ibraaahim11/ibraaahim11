@@ -1,11 +1,13 @@
 <h1 align="center">I'm Ibrahim Abdel Dayem</h1>
 
-<h2 align="center">Computer Engineering Student | Full Stack Dev using Node.js, Express | C++, Java, SQL</h2>
+<h2 align="center">Computer Engineering Student @ Cairo Univeristy | Full Stack Developer (Node.js & Express)</h2>
+<h3 align="center">C++, Java, Python • SQL, PostgreSQL • Django • Git • Postman</h3>
+
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-hesham-abdel-dayem-b00a9832a">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Check%20out%20my%20LinkedIn%20Profile!;View%20my%20Projects%20below;Always%20Learning%20and%20Building;Let's%20Connect%20and%20Create%20Together&font=Bold%20Code&center=true&color=30D050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile!;View%20my%20GitHub%20Projects;Always%20Learning%20and%20Building;Let's%20Connect%20and%20Create%20Together&font=Bold%20Code&center=true&color=30D050&pause=2000">
   </a>
 </p>
 
@@ -37,7 +39,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ibraaahim11&theme=highcontrast" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; 
 </p>
 
 ---
