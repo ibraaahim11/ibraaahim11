@@ -41,8 +41,10 @@
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=1000&theme=highcontrast" />
 </p>
+
+
 
 ---
 
