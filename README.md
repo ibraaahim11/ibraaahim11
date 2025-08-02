@@ -35,8 +35,10 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,js,html,css,nodejs,express,django,mysql,postgres,oracle,postman"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,cpp,python,html,css,spring,nodejs,express,django,react,mysql,postgres,oracle,postman"/>
 </p>
+
+
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; 
