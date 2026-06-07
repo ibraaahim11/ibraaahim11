@@ -1,16 +1,12 @@
 <h1 align="center">I'm Ibrahim Abdel Dayem 👋</h1>
-
-<h2 align="center">Computer Engineering Student @ Cairo Univeristy | Full Stack Developer (Node.js & Express)</h2>
-<h3 align="center">JavaScript • C++ • Java • Python • SQL</h3>
-
+<h2 align="center">Computer Engineering Student @ Cairo University | Backend Developer (Java & Spring Boot | Node.js & Express)</h2>
+<h3 align="center">Java • JavaScript • C • C++ • Python • SQL</h3>
 <br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-hesham-abdel-dayem-b00a9832a">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile!;View%20my%20GitHub%20Projects;Always%20Learning%20and%20Building;Let's%20Connect%20and%20Create%20Together&font=Bold%20Code&center=true&color=30D050&pause=2000">
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahimhesham&style=flat&color=4010B0" height="25"/>
 </p>
@@ -30,21 +26,15 @@
   </a>
 </p>
 
-
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,cpp,python,html,css,spring,nodejs,express,django,react,mysql,postgres,oracle,postman"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,nodejs,express,python,django,mysql,postgres,oracle,html,css,react,js,cpp,postman"/>
 </p>
-
-
-
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=1000&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraaahim11&layout=compact&langs_count=1000&theme=highcontrast" />
 </p>
-
-
 
 ---
 
